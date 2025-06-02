@@ -9,13 +9,13 @@ with open("requirements.txt") as f:
 setup(
     name="clientes_inadimplentes",
     version="0.0.1",
-    author="Artur Jorge Braga de Souza",
+    author="ArturJBraga",
     author_email="mr.arturj@gmail.com",
-    description="My short description",
+    description="Criar função para descobrir os clientes inadimplentes de uma empresa",
     long_description=page_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/ArturJBraga/clientes_inadimplentes.git"
+    url="https://github.com/ArturJBraga/clientes_inadimplentes.git",
     packages=find_packages(),
     install_requires=requirements,
-    python_requires='>=3.8',
+    python_requires='>=3.5',
 )
