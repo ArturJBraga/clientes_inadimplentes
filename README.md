@@ -1,7 +1,7 @@
 # package_name
 
 Description. 
-The package package_name is used to:
+The package clientes_inadimplentes is used to:
 	- 
 	-
 
@@ -10,18 +10,18 @@ The package package_name is used to:
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
 
 ```bash
-pip install package_name
+pip install clientes_inadimplentes
 ```
 
 ## Usage
 
 ```python
-from package_name import file1_name
+from clientes_inadimplentes import file1_name
 file1_name.my_function()
 ```
 
 ## Author
-My_name
+Artur Jorge Braga de Souza
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)

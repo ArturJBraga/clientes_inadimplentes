@@ -10,7 +10,7 @@ setup(
     name="clientes_inadimplentes",
     version="0.0.1",
     author="Artur Jorge Braga de Souza",
-    author_email="mr.arturjbraga@gmail.com",
+    author_email="mr.arturj@gmail.com",
     description="My short description",
     long_description=page_description,
     long_description_content_type="text/markdown",
